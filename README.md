@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Joseph Gimba 👋
 
-<!--
-**Joewizy/Joewizy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a blockchain developer passionate about crypto innovation. I specialize in building decentralized applications and smart contracts using a modern tech stack.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages & Frameworks:** Rust, JavaScript, Solidity, Move, Cairo
+- **Focus:** Blockchain development, decentralized finance (DeFi), and crypto solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Pinned Projects
+- [Sui DeFi Hub](https://github.com/Joewizy/Sui-Defi-Hub)
+- [AI Revenue System](https://github.com/Joewizy/AI-Revenue-System)
+- [Decentralized Stablecoin Contract](https://github.com/Joewizy/Decentralized-Stablecoin-Contract)
+- [AIA Chain Inaugural Hackathon](https://github.com/Joewizy/AIA_Chain_Inaugural_Hackathon)
+
+Let's build something innovative together!
