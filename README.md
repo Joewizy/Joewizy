@@ -1,15 +1,9 @@
 # Hi, I'm Joseph Gimba 👋
 
-I'm a blockchain developer passionate about crypto innovation. I specialize in building decentralized applications and smart contracts using a modern tech stack.
+I'm a passionate software engineer with a BSc in Computer Engineering, dedicated to leveraging technology to solve real-life challenges. As a Web3 crypto maxi, I harness the power of blockchain to build innovative, decentralized solutions that drive real impact.
 
 ## 🔧 Tech Stack
-- **Languages & Frameworks:** Rust, JavaScript, Solidity, Move, Cairo
-- **Focus:** Blockchain development, decentralized finance (DeFi), and crypto solutions
+- **Languages & Frameworks:** Solidity, TypeScript, Rust, JavaScript, Move, Cairo
+- **Focus:** Combining software engineering with blockchain technology to create flexible, cutting-edge applications, especially in decentralized finance (DeFi) and beyond.
 
-## 🚀 Pinned Projects
-- [Sui DeFi Hub](https://github.com/Joewizy/Sui-Defi-Hub)
-- [AI Revenue System](https://github.com/Joewizy/AI-Revenue-System)
-- [Decentralized Stablecoin Contract](https://github.com/Joewizy/Decentralized-Stablecoin-Contract)
-- [AIA Chain Inaugural Hackathon](https://github.com/Joewizy/AIA_Chain_Inaugural_Hackathon)
-
-Let's build something innovative together!
+Let's build something innovative together! 🚀
