@@ -4,6 +4,6 @@ I'm a passionate blockchain developer, dedicated to leveraging technology to sol
 
 ## 🔧 Tech Stack
 - **Languages & Frameworks:** Solidity, TypeScript, Rust, JavaScript, Move, Cairo
-- **Focus:** Combining software engineering with blockchain technology to create flexible, cutting-edge applications, especially in decentralized finance (DeFi) and beyond.
+- **Focus:** Utilization blockchain technology to solve problem and build a better Life
 
 Let's build something innovative together! 🚀
